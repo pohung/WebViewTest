@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.googleapis.com",
+  "@type": "ARArtifact",
+  "arTarget": {
+    "@type": "ARImageTarget",
+    "name" : "HOW TO SKATEBOARD EPISODE 1",
+    "image": "http://pohungchen.com/WebViewTest/Skateboard/Markers/SB-1.png"
+
+  },
+  "arPlacement": {
+    "@type": "ARPlanarReplacement",
+    "scaleMode": "ScaleModeFit"
+  },
+  "arContent": {
+    "@type": "VideoObject",
+    "name": "HOW TO SKATEBOARD EPISODE 1",
+    "contentUrl": "http://pohungchen.com/WebViewTest/Skateboard/PreviewImage/Preview1.png",
+    "image": "http://pohungchen.com/WebViewTest/Skateboard/PreviewImage/Preview1.png",
+    "url": "https://www.youtube.com/watch?v=p3NXd3DhH08",
+    "publisher": {
+      "@type": "Organization",
+      "name": "NIKE SB",
+      "logo": "http://pohungchen.com/WebViewTest/Skateboard/Nike_SB_logo.jpeg"
+    }
+  }
+}
+</script>
